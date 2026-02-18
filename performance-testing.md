@@ -56,7 +56,7 @@ OS: Debian Linux
 CPU: AMD AI 9 365  
 Graphics: Integrated Radeon 880M  
 Resolution: 2880x1800  
-RAM: 20GB total, 6200 allocated  
+RAM: 20GB total, 6200MB allocated  
 OS: Arch Linux (btw)  
 
 
