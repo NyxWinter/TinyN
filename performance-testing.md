@@ -27,7 +27,7 @@ OS: Debian Linux
   - RenderScale at 0.75, Fast Graphics  
     Average: ~70FPS, Lows: ~50FPS
 
-- Sitation 2:  
+- Situation 2:  
   Same area, but raining
 
   - RenderScale at 1.00, Fancy Graphics  
@@ -42,7 +42,7 @@ OS: Debian Linux
   - RenderScale at 0.75, Fast Graphics  
     Average: ~65FPS, Lows: ~30FPS
 
-- Sitation 3:  
+- Situation 3:  
   The Nether (Nether Wastes)  
   Fast/Fancy didn't make a noticable difference  
 
@@ -60,7 +60,7 @@ RAM: 20GB total, 6200MB allocated
 OS: Arch Linux (btw)  
 
 
-- Sitation 1:
+- Situation 1:
 
   - RenderScale at 1.00, Fancy Graphics  
     Average: ~350FPS, Lows: ~240FPS
@@ -74,7 +74,7 @@ OS: Arch Linux (btw)
   - RenderScale at 0.75, Fast Graphics  
     Average: ~520FPS, Lows: ~380FPS
 
-- Sitation 2:
+- Situation 2:
 
   - RenderScale at 1.00, Fancy Graphics  
     Average: ~300FPS, Lows: ~250FPS
@@ -88,7 +88,7 @@ OS: Arch Linux (btw)
   - RenderScale at 0.75, Fast Graphics  
     Average: ~450FPS, Lows: ~370FPS
 
-- Sitation 3:
+- Situation 3:
 
   - RenderScale at 1.00  
     Average: ~580FPS, Lows: ~530FPS
